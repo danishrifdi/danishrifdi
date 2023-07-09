@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UEM under Yayasan Dayadiri Scholarship. I derive immense pleasure from immersing myself in the captivating world of books while actively engaging in meaningful volunteer activities.
+I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UEM under Yayasan Dayadiri Scholarship. Data Science Enthusiast and Minecraft Adventurer, join me as I embark on a journey that fuses data-driven exploration with the pixelated realms of Minecraft, opening new horizons and shaping the future through the power of data and virtual creativity."
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishrifdi)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hello,greet to see you 👋, I'm Danish Rifdi</h1>
+<h1 align="center">Hello greet to see you👋, I'm Danish Rifdi</h1>
 <h3 align="center">A profound passion for unraveling the secrets of data science</h3>
 
 - 🔭 I’m currently working on [Kelantan Educational Resources Initiative for Students](https://keris.netlify.app/)
