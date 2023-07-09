@@ -15,7 +15,7 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 
 - 🎮 Fun fact **I have spent countless hours designing and constructing my dream transportation system using redstone engineering in Minecraft.**
 
-<h3 align="left">Talk with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wan danish rifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wan danish rifdi" height="30" width="40" /></a>
 <a href="https://fb.com/danish rifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish rifdi" height="30" width="40" /></a>
@@ -28,4 +28,5 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 ### YouTube Videos
 
 <!-- YOUTUBE : START -->
-- [STEM] https://youtu.be/SG1kIZ11iA4
+- [Digital Video Engineering & Technology Kelantan Competition | Consolation Award] https://youtu.be/SG1kIZ11iA4
+- [Tutorial Badminton Stadium Ideas | Minecraft] https://youtu.be/a2Wqub-U7ys
