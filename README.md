@@ -1,6 +1,6 @@
-### Welcome to my journey
+### Welcome to my page
 
-I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UEM under Yayasan Dayadiri Scholarship. Data Science Enthusiast and Minecraft Adventurer, join me as I embark on a journey that fuses data-driven exploration with the pixelated realms of Minecraft, opening new horizons and shaping the future through the power of data and virtual creativity."
+Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UEM under Yayasan Dayadiri Scholarship. Data Science Enthusiast and Minecraft Adventurer, join me as I embark on a journey that fuses data-driven exploration with the pixelated realms of Minecraft, opening new horizons and shaping the future through the power of data and virtual creativity."
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishrifdi)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,7 +13,7 @@ I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UE
 
 - 📄 Know about my experiences [https://tinyurl.com/ybdkdztk](https://tinyurl.com/ybdkdztk)
 
-- ⚡ Fun fact **I have spent countless hours designing and constructing my dream advanced transportation system using redstone engineering in Minecraft.**
+- 🎮 Fun fact **I have spent countless hours designing and constructing my dream transportation system using redstone engineering in Minecraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
