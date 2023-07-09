@@ -7,7 +7,7 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 <h1 align="center">Hello nice to see you👋, I'm Danish Rifdi</h1>
 <h3 align="center">With a profound passion for unraveling the secrets of data science</h3>
 
-- 🔭 I’m currently working on [Kelantan Educational Resources Initiative for Students](https://keris.netlify.app/)
+- ⚡ I’m currently working on [Kelantan Educational Resources Initiative for Students](https://keris.netlify.app/)
 
 - 📫 How to reach me **wandanishrifdi@gmail.com**
 
