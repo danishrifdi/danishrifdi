@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my journey
 
 I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UEM under Yayasan Dayadiri Scholarship. Data Science Enthusiast and Minecraft Adventurer, join me as I embark on a journey that fuses data-driven exploration with the pixelated realms of Minecraft, opening new horizons and shaping the future through the power of data and virtual creativity."
 
