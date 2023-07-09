@@ -19,7 +19,7 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 <p align="left">
 <a href="https://linkedin.com/in/wan danish rifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wan danish rifdi" height="30" width="40" /></a>
 <a href="https://fb.com/danish rifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish rifdi" height="30" width="40" /></a>
-<a href="https://instagram.com/dnishrifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnishrifdi" height="30" width="40" /></a>
+<a href="https://instagram.com/dnishrifdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnishrifdi" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +28,5 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 ### 📹YouTube Videos
 
 <!-- YOUTUBE : START -->
-- [Digital Video Engineering & Technology Kelantan Competition | Consolation Award] https://youtu.be/SG1kIZ11iA4
-- [Tutorial Badminton Stadium Ideas | Minecraft] https://youtu.be/a2Wqub-U7ys
+- [Kelantan Digital Video Engineering & Technology Competition | Consolation Award] https://youtu.be/SG1kIZ11iA4
+- [Tutorial Badminton Stadium Idea | Minecraft] https://youtu.be/a2Wqub-U7ys
