@@ -4,14 +4,16 @@ I'm Danish Rifdi from Kota Bharu and currently doing A Level at Kolej Yayasan UE
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishrifdi)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hello greet to see you👋, I'm Danish Rifdi</h1>
+<h1 align="center">Hello,greet to see you 👋, I'm Danish Rifdi</h1>
 <h3 align="center">A profound passion for unraveling the secrets of data science</h3>
 
 - 🔭 I’m currently working on [Kelantan Educational Resources Initiative for Students](https://keris.netlify.app/)
 
 - 📫 How to reach me **wandanishrifdi@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFnrkRxRtg/E0u-MEaK3Js3D7IsrfXkIw/edit?utm_content=DAFnrkRxRtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFnrkRxRtg/E0u-MEaK3Js3D7IsrfXkIw/edit?utm_content=DAFnrkRxRtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://tinyurl.com/ybdkdztk](https://tinyurl.com/ybdkdztk)
+
+- ⚡ Fun fact **I have spent countless hours designing and constructing my dream advanced transportation system using redstone engineering in Minecraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
