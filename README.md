@@ -4,8 +4,8 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishrifdi)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hello greet to see you👋, I'm Danish Rifdi</h1>
-<h3 align="center">A profound passion for unraveling the secrets of data science</h3>
+<h1 align="center">Hello nice to see you👋, I'm Danish Rifdi</h1>
+<h3 align="center">With a profound passion for unraveling the secrets of data science</h3>
 
 - 🔭 I’m currently working on [Kelantan Educational Resources Initiative for Students](https://keris.netlify.app/)
 
