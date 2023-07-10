@@ -29,5 +29,6 @@ Hi, I'm Danish Rifdi from Kota Bharu currently doing A Level at Kolej Yayasan UE
 
 <!-- YOUTUBE : START -->
 - 🌐 [Kelantan Digital Video Engineering & Technology Competition | Consolation Award] https://youtu.be/SG1kIZ11iA4
+- 🎭 [KYUEM Dikir Barat Performance | Participant] https://youtu.be/zLIkJUb9vKE
 
 - 🏸 [Tutorial Badminton Stadium Idea | Minecraft PE] https://youtu.be/a2Wqub-U7ys
